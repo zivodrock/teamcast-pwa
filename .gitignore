@@ -1,0 +1,11 @@
+*.iml
+
+.idea/
+target/
+build/
+.build/
+nb-configuration.xml
+logback-test.xml
+
+.DS_Store
+._.DS_Store
